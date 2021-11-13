@@ -25,7 +25,8 @@ As I noticed refactoring the code was much easier than re writing the code and f
  
 **If Cells(j + 1, 1).Value <> tickers(tickerIndex) And Cells(j, 1).Value = tickers(tickerIndex) Then  
             tickerIndex = tickerIndex + 1             
-                 End If**
+                 End If**    
+                 
  we got that if the tickers results that we had if it doesn't match then we increase the value by 1
  now for what i noticed
 2018 resultes showed the same tocks **(ENPH =81.9%,RUN =84.0%)** the timimg was faster in the refactored analysis,and for 2017 results it showed diffrent stocks and timimg **(reafctored analysis TERP -7.2% in 0.1875 seconds)** and **(fisrt analysis ENPH 129.5% and RUN 5.5% in 1.00399 sec)** which mean refactored analysis was more detailed in showing which better between the stocks.
