@@ -4,6 +4,13 @@ Steve gratuated from finance ,his parents wanted to ecourge him so they decided 
 
 ## **2.comparing the results stocks between 2017 and 2018**
 **2a.** analysis of all stocks:
-![This is an image]()
+![This is an image](https://github.com/Farah86/VBA-Challange/blob/main/2018%20analysis.png)
+![This is an image](https://github.com/Farah86/VBA-Challange/blob/main/2017analysis.png)
+![This is an image](https://github.com/Farah86/VBA-Challange/blob/main/codes%20for%20analysis.png)
+![This is an image](https://github.com/Farah86/VBA-Challange/blob/main/analysis%20loop%20through%20the%20array.png)
 
 **2b.** refactored analysis of all stocks 
+![This is an image]()
+![This is an image]()
+![This is an image]()
+![This is an image]()
