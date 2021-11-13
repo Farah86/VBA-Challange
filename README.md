@@ -21,7 +21,7 @@ Steve gratuated from finance ,his parents wanted to ecourge him so they decided 
 **3a.Advantage and disadvantage of refactoring a code:**
 Code Refactoring is an important exercise to remove code smell. It helps to find bugs, makes programs run faster, it's easier to understand the code, improves the design of software, etc. Code smell slows down the development and is prone to more defects. An adequate set of unit tests and a supportive environment should be there for code refactoring, so in our module it was to it make it easy to enhance and maintain in the future. It should not violate Open Close Principle and what i found it a little bit hard the debugging of tracking codes and finding which one is duplicated and fix it up.
     
-   **3b Advantage and disadvantage of refactoring the codes on the  the execution time of both analysis:**
+   **3b.Advantage and disadvantage of refactoring the codes on the  the execution time of both analysis:**
 As I noticed refactoring the code was much easier than re writing the code and for the same resultes but for the second analysis we add an extra statment that effected our analysis results which was :
  
 **If Cells(j + 1, 1).Value <> tickers(tickerIndex) And Cells(j, 1).Value = tickers(tickerIndex) Then  
